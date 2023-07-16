@@ -1,0 +1,21 @@
+.entireForm{
+    width: 80%;
+    margin: auto;
+    margin-top: 9rem;
+}
+.boxL{
+    /* outline: none; */
+    border: none;
+}
+.boxL:focus {
+    outline: none;
+    /* border: none; */
+}
+.switch{
+    margin-top: 2rem;
+    gap: 3rem;
+}
+.select{
+    display: flex;
+    justify-content: space-between;
+}
